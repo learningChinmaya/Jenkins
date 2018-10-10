@@ -1,1 +1,1 @@
-This is a Sample Text File.
+This is a good Sample Text File.
